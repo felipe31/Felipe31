@@ -13,3 +13,8 @@
 - PostgreSQL
 - C/C++
 - Go
+
+---
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=monokai&preferLogin=false" >    <img  alt="felipe31's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/felipe31?cardType=level&theme=monokai&preferLogin=false"/>  </a>
+</div>
