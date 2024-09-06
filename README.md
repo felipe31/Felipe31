@@ -10,7 +10,7 @@
 
 ### My Skills
 - Typescript & Javascript: Node.js & React
-- PostgreSQL
+- PostgreSQL with and without Supabase
 - C/C++
 - Go
 
